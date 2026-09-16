@@ -1,7 +1,7 @@
 {
   "injetor_diesel_1": {
     "nome": "INJETOR DIESEL 1",
-    "versao": "1.0.0",
+    "versao": "1.0.1",
     "arquivo": "injetor_diesel_1_v1.0.0.bin",
     "sha256": ""
   },
