@@ -1,10 +1,9 @@
-{
-  "injetor_diesel_1": {
-    "nome": "INJETOR DIESEL 1",
-    "versao": "1.0.1",
-    "arquivo": "injetor_diesel_1_v1.0.1.bin",
-    "sha256": "B01BB50CE5527082F7BAE93818FB7EDF08ED317E3D9CF87766D6978FFBC8703A"
-  },
+"injetor_diesel_1": {
+  "nome": "INJETOR DIESEL 1",
+  "versao": "1.0.2",
+  "arquivo": "injetor_diesel_1_v1.0.2.bin",
+  "sha256": "17CC82607963EBBD55AB8DBC4B3F03D9BF017F8AE0F363E6C166A014354C7731"
+},
 
   "viewe_43": {
     "nome": "AUTOTEC VIEWE 4.3",
