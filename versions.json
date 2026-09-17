@@ -1,18 +1,16 @@
 {
-"injetor_diesel_1": {
-  "nome": "INJETOR DIESEL 1",
-  "versao": "1.0.3",
-  "arquivo": "injetor_diesel_1_v1.0.3.bin",
- "sha256": "0E71B3E568503045222221EF70F87C386F6011F5A28BA826139E9AFE2056000F"
-}
-
+  "injetor_diesel_1": {
+    "nome": "INJETOR DIESEL 1",
+    "versao": "1.0.3",
+    "arquivo": "injetor_diesel_1_v1.0.3.bin",
+    "sha256": "0E71B3E568503045222221EF70F87C386F6011F5A28BA826139E9AFE2056000F"
+  },
   "viewe_43": {
     "nome": "AUTOTEC VIEWE 4.3",
     "versao": "1.0.0",
     "arquivo": "viewe_43_v1.0.0.bin",
     "sha256": ""
   },
-
   "simulador_paineis": {
     "nome": "SIMULADOR DE PAINÉIS",
     "versao": "1.0.0",
